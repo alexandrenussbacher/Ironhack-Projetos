@@ -1,4 +1,4 @@
-<h1 align="center"> Ironhack-Projetos </br>
+<h1 align="center"> Ironhack - Projetos <br>
   <img src="https://camo.githubusercontent.com/52d2ff8778b60261533a7dba8dd989c6893a519b/68747470733a2f2f692e696d6775722e636f6d2f315167724e4e772e706e67">
 </h1>
 <br>
