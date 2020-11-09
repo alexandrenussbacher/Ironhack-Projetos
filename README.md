@@ -11,9 +11,10 @@ Projetos desenvolvidos por mim durante o bootcamp de Data Analytics da Ironhack.
 
 Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem e somem da tela, inspirado no jogo Genius (conhecido também como [Simon Says](https://thumbs.gfycat.com/PoliteBiodegradableDrongo-mobile.mp4)).
 <br><br>
+
 ## 🧹 PROJETO 02 | Data Manipulation & Data Cleaning - Shark Attacks
 
-* **Proposta**: Fazer uma leitura e análise de um Dataset sobre ataque de tubarões e formular pergunta(s) que possa(m) ser respondida(s) através da limpeza e manipulação dos dados (clique [aqui](https://ironhack.school/asset-v1:IRONHACK+DAFT+202007_SAO+type@asset+block@shark-attacks-project-v1.pdf) para saber mais).
+* **Proposta**: Fazer uma leitura e análise de um [Dataset do kaggle](https://www.kaggle.com/teajay/global-shark-attacks%20) sobre ataque de tubarões e formular pergunta(s) que possa(m) ser respondida(s) através da limpeza e manipulação dos dados (clique [aqui](https://ironhack.school/asset-v1:IRONHACK+DAFT+202007_SAO+type@asset+block@shark-attacks-project-v1.pdf) para saber mais).
 
 > Após analisar o Dataset, decidi abordar e analisar as seguintes questões:
 
