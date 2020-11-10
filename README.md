@@ -7,7 +7,7 @@ Projetos desenvolvidos por mim durante o bootcamp de Data Analytics da Ironhack.
 
 ## 🎮 PROJETO 01 | Mini game - Jogo da sequência
 
-* **Proposta**: Criar qualquer jogo no Python com base nas [aulas da primeira semana]() (clique [aqui]() para saber mais).
+* **Proposta**: Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://github.com/alexandrenussbacher/Ironhack-LABs) (clique [aqui]() para saber mais).
 
 Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem e somem da tela, inspirado no jogo Genius (conhecido também como [Simon Says](https://thumbs.gfycat.com/PoliteBiodegradableDrongo-mobile.mp4)).
 <br><br>
