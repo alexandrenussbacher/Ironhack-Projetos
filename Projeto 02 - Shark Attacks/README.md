@@ -1,4 +1,5 @@
-<h1 align="center"> SHARK ATTACKS </br>
+<a name="topo"></a>
+<h1 align="center"> 🧹 PROJETO 02 | Data Manipulation & Data Cleaning - Shark Attacks <br></br>
   <img src="https://ogimg.infoglobo.com.br/in/24555312-444-83e/FT631A/tubarao.jpg" alt="Shark"/>
 </h>
 
@@ -89,13 +90,13 @@ memory usage: 259.2+ KB
 
 7. Comparar informações de casos e mortes em determinados países:
 
-|    | country          |   num_casos_2000a2018 |   num_mortes_2000a2018 |   prop_mortes_2000a2018 |   num_casos_1900a1999 |   num_mortes_1900a1999 |   prop_mortes_1900a1999 |
-|---:|:-----------------|----------------------:|-----------------------:|------------------------:|----------------------:|-----------------------:|------------------------:|
-|  0 | USA              |                   951 |                     20 |               0.0210305 |                   944 |                    112 |                0.118644 |
-|  1 | AUSTRALIA        |                   362 |                     33 |               0.0911602 |                   701 |                    186 |                0.265335 |
-|  2 | SOUTH AFRICA     |                   124 |                     22 |               0.177419  |                   363 |                     65 |                0.179063 |
-|  4 | BRAZIL           |                    49 |                     18 |               0.367347  |                    49 |                     17 |                0.346939 |
-| 15 | PAPUA NEW GUINEA |                     9 |                      3 |               0.333333  |                   116 |                     51 |                0.439655 |
+|    | country                     |   num_casos_2000a2018 |   num_mortes_2000a2018 |   prop_mortes_2000a2018 |   num_casos_1900a1999 |   num_mortes_1900a1999 |   prop_mortes_1900a1999 |
+|---:|:----------------------------|----------------------:|-----------------------:|------------------------:|----------------------:|-----------------------:|------------------------:|
+|  0 | USA                         |                   951 |                     20 |               0.0210305 |                   944 |                    112 |                0.118644 |
+|  1 | AUSTRALIA                   |                   362 |                     33 |               0.0911602 |                   701 |                    186 |                0.265335 |
+|  2 | SOUTH AFRICA                |                   124 |                     22 |               0.177419  |                   363 |                     65 |                0.179063 |
+|  4 | BRAZIL                      |                    49 |                     18 |               0.367347  |                    49 |                     17 |                0.346939 |
+| 15 | PAPUA NEW GUINEA            |                     9 |                      3 |               0.333333  |                   116 |                     51 |                0.439655 |
 
 > Apesar do número de casos nos Estados Unidos ser muito alto se comparado com os outros países, o índice de mortes se destaca por ser relativamente baixo.
 
@@ -173,4 +174,4 @@ Correlação entre as variáveis do DataFrame acima:
 
 Alexandre Nussbacher
 
-
+- [SUBIR AO TOPO](#topo)
