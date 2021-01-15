@@ -1,5 +1,4 @@
 <a name="topo"></a>
-
 <h1 align="center"> 🎮 PROJETO 01 | Mini game - Jogo da sequência </h>
 
 ## TABELA DE CONTEÚDO
@@ -23,7 +22,17 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 <a name="etapas"></a>
 ## ETAPAS IMPORTANTES
 
-1. 
+<ol type="1">
+  
+<li> Criar uma classe com as funções necessárias. </li> <p></p>
+
+<li> Dentro da classe:
+
+- Criar duas listas vazias, uma para o computador ir preenchendo aleatóriamente ao longo do jogo, e outro para o usuário ir preenchendo.
+
+- Criar 3 funções: uma para o computador adicionar os números na lista, outra para o usuário digitar novamente caso ele não digite uma sequência numérica (como ilustra a imagem abaixo) e outra para adicionar a sequência digitada pelo usuário na lista.
+
+<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png">
 
 
 <a name="processo"></a>
