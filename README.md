@@ -10,7 +10,9 @@ Projetos desenvolvidos por mim durante o bootcamp de Data Analytics da Ironhack.
 * **Proposta**: Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://github.com/alexandrenussbacher/Ironhack-LABs).
 
 Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem e somem da tela, inspirado no jogo Genius (conhecido também como [Simon Says](https://thumbs.gfycat.com/PoliteBiodegradableDrongo-mobile.mp4)).
-<br><br>
+<br></br>
+
+
 
 ## 🧹 PROJETO 02 | Limpeza e manipulação de dados - Shark Attacks
 
@@ -21,3 +23,20 @@ Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem
 1. Relação entre a ocorrência de casos e mortes ao longo dos anos nos Estados Unidos entre 1900 e 2018.<br>
 
 2. Ocorrência de casos e mortes nos Estados Unidos para cada atividade que a vítima estava realizando, comparando os seguintes períodos: 1900 a 1999 e 2000 a 2018.
+<br></br>
+
+
+## 📈 PROJETO 04 | Regressão Linear - Rick diamonds
+
+* **Proposta**: Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Rick's%20diamonds.csv), com base em um [Dataset histórico](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Histoical%20Dataset.csv).
+
+**Os preços previstos devem ter um RMSE (raiz quadrada média do erro) menor que 900.**
+
+Criei uma baseline e dois modelos. No segundo modelo, apliquei o logaritmo nas colunas do Dataset e cheguei nos seguintes resultados:
+
+>**RMSE**=890.9525826770072
+
+>**R²**=98.21%
+
+<br></br>
+
