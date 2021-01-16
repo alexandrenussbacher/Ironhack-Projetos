@@ -44,7 +44,7 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 <li><b>Chamar a função que roda o jogo. </b> </li> <p></p>
   
-* **Exemplos de acerto e erro do usuário:**
+* Exemplos de acerto e erro do usuário:
 
 <img width="450" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/correto.png">
 <img width="450" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/game_over.png">
