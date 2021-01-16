@@ -17,7 +17,7 @@ Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick
 
 ### OBJETIVO
 
-Os preços previstos devem ter um RMSE (raiz quadrada média do erro) menor que 900.
+**Os preços previstos devem ter um RMSE (raiz quadrada média do erro) menor que 900.**
 
 > clique [aqui](https://ironhack.school/asset-v1:IRONHACK+DAFT+202007_SAO+type@asset+block@linear-regression-challenge.pdf) para saber mais.
 
