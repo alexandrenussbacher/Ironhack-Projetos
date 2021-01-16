@@ -30,7 +30,7 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 - Criar 3 funções: uma para o computador adicionar os números na lista, outra para o usuário digitar novamente caso ele não digite uma sequência numérica (como ilustra a imagem abaixo) e outra para adicionar a sequência digitada pelo usuário na lista.
 
-<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png"> </li> <p></p>
+<p align="center"> <img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png"> </p> </li> <p></p>
 
 <li><b> Criar uma função que rode o jogo. Dentro da função: </b>
   
