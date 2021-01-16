@@ -24,15 +24,15 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 <ol type="1">
   
-<li> Criar uma classe com as funções necessárias. Dentro da classe:
+<li><b> Criar uma classe com as funções necessárias. Dentro da classe: </b>
 
 - Criar duas listas vazias, uma para o computador ir preenchendo aleatóriamente ao longo do jogo, e outra para o usuário ir preenchendo.
 
 - Criar 3 funções: uma para o computador adicionar os números na lista, outra para o usuário digitar novamente caso ele não digite uma sequência numérica (como ilustra a imagem abaixo) e outra para adicionar a sequência digitada pelo usuário na lista.
 
-<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png"> </li> <p></p> <p></p>
+<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png"> </li> <p></p>
 
-<li> Criar uma função que rode o jogo. Dentro da função:
+<li><b> Criar uma função que rode o jogo. Dentro da função: </b>
   
 - Limpar as duas listas, para que um novo jogo possa ser iniciado apenas chamando essa função.
 
@@ -40,9 +40,9 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 - Criar uma variável que adicione um tempo de exibição da lista criada pelo computador a cada acerto do usuário.
 
-- Criar uma variável que some os pontos a cada acerto do usuário. </li> <p></p> <p></p>
+- Criar uma variável que some os pontos a cada acerto do usuário. </li> <p></p>
 
-<li> Chamar a função que roda o jogo. </li> <p></p> <p></p>
+<li><b>Chamar a função que roda o jogo. </b> </li> <p></p>
   
 * **Exemplos de acerto e erro do usuário:**
 
