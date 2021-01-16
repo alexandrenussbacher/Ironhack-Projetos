@@ -28,9 +28,7 @@ Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem
 
 ## 📈 PROJETO 04 | Regressão Linear - Rick diamonds
 
-* **Proposta**: Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Rick's%20diamonds.csv), com base em um [Dataset histórico](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Histoical%20Dataset.csv).
-
-**Os preços previstos devem ter um RMSE (raiz quadrada média do erro) menor que 900.**
+* **Proposta**: Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Rick's%20diamonds.csv), com base em um [Dataset histórico](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Histoical%20Dataset.csv). **Os preços previstos devem ter um RMSE (raiz quadrada média do erro) menor que 900** (clique [aqui](https://ironhack.school/asset-v1:IRONHACK+DAFT+202007_SAO+type@asset+block@linear-regression-challenge.pdf) para saber mais).
 
 Criei uma baseline e dois modelos. No segundo modelo, apliquei o logaritmo nas colunas do Dataset e cheguei nos seguintes resultados:
 
