@@ -30,7 +30,7 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 - Criar 3 funções: uma para o computador adicionar os números na lista, outra para o usuário digitar novamente caso ele não digite uma sequência numérica (como ilustra a imagem abaixo) e outra para adicionar a sequência digitada pelo usuário na lista.
 
-<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png" class="center"> </li> <p></p>
+<img align="center" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png"> </li> <p></p>
 
 <li> Criar uma função que rode o jogo. Dentro da função:
   
@@ -46,14 +46,8 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
   
 * **Exemplos de acerto e erro do usuário:**
 
-<div class="row">
-  <div class="column">
-    <img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/correto.png" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/game_over.png" style="width:100%">
-  </div>
-</div>
+<img width="450" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/correto.png">
+<img width="450" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/game_over.png">
 
 <a name="processo"></a>
 ## PROCESSO DE APRENDIZADO
