@@ -1,6 +1,6 @@
 <a name="topo"></a>
 <h1 align="center"> 📈 PROJETO 04 | Regressão Linear - Rick diamonds <br></br>
-  <img src="https://ogimg.infoglobo.com.br/in/24555312-444-83e/FT631A/tubarao.jpg" alt="Shark"/>
+  <img width="300" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/imagens/diamante.jpg" alt="Shark"/>
 </h>
 
 ## TABELA DE CONTEÚDO
