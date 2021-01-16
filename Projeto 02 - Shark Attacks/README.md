@@ -34,7 +34,7 @@ Antes de formular a(s) pergunta(s), foi preciso fazer uma análise dos dados par
 
 2. Renomear as colunas e redefinir o DataFrame, utilizando apenas colunas que supostamente poderão ser utilizadas.
 
-4. Verificar a quantidade de casos e mortes por país:
+3. Verificar a quantidade de casos e mortes por país:
 
 <table>
 <tr><th>CASOS</th><th>MORTES</th></tr>
@@ -62,9 +62,9 @@ Antes de formular a(s) pergunta(s), foi preciso fazer uma análise dos dados par
 
 </td></tr> </table>
 
-5. Criar um DataFrame para daods entre 2000 e 2018 e outro para dados entre 1900 e 1999.
+4. Criar um DataFrame para daods entre 2000 e 2018 e outro para dados entre 1900 e 1999.
 
-6. Para ambos os DataFrame criados, verificar a quantidade de valores NaN (not a number) em cada coluna e removê-los das colunas "fatal" e "country" para que as colunas em interesse ("fatal", "country" e "year") tivessem apenas valores significantes.
+5. Para ambos os DataFrame criados, verificar a quantidade de valores NaN (not a number) em cada coluna e removê-los das colunas "fatal" e "country" para que as colunas em interesse ("fatal", "country" e "year") tivessem apenas valores significantes.
 
 Exemplo das informações do DataFrame de 2000 a 2018 após a remoção dos valores nulos das 2 colunas citadas (as 3 colunas em interesse passaram a ter a mesma quantidade de valores não-nulos):
 
@@ -88,7 +88,7 @@ dtypes: int64(2), object(9)
 memory usage: 259.2+ KB
 </pre>
 
-7. Comparar informações de casos e mortes em determinados países:
+6. Comparar informações de casos e mortes em determinados países:
 
 |    | country                     |   num_casos_2000a2018 |   num_mortes_2000a2018 |   prop_mortes_2000a2018 |   num_casos_1900a1999 |   num_mortes_1900a1999 |   prop_mortes_1900a1999 |
 |---:|:----------------------------|----------------------:|-----------------------:|------------------------:|----------------------:|-----------------------:|------------------------:|
