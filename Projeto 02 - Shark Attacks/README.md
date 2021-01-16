@@ -1,5 +1,5 @@
 <a name="topo"></a>
-<h1 align="center"> 🧹 PROJETO 02 | Data Manipulation & Data Cleaning - Shark Attacks <br></br>
+<h1 align="center"> 🧹 PROJETO 02 | Limpeza e manipulação de dados - Shark Attacks <br></br>
   <img src="https://ogimg.infoglobo.com.br/in/24555312-444-83e/FT631A/tubarao.jpg" alt="Shark"/>
 </h>
 
@@ -160,8 +160,8 @@ Correlação entre as variáveis do DataFrame acima:
 
 - [x] Pandas
 - [x] Numpy
-- [x] Manipulação de dados
 - [x] Limpeza de dados
+- [x] Manipulação de dados
 
 ### Desafios:
 
