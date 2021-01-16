@@ -13,7 +13,7 @@
 <a name="proposta"></a>
 ## PROPOSTA
 
-Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick's%20diamonds/data/Rick's%20diamonds.csv), com base em um [Dataset histórico](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick's%20diamonds/data/Histoical%20Dataset.csv).
+Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Rick's%20diamonds.csv), com base em um [Dataset histórico](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2004%20-%20Rick%20diamonds/data/Histoical%20Dataset.csv).
 
 ### OBJETIVO
 
