@@ -30,7 +30,7 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 - Criar 3 funções: uma para o computador adicionar os números na lista, outra para o usuário digitar novamente caso ele não digite uma sequência numérica (como ilustra a imagem abaixo) e outra para adicionar a sequência digitada pelo usuário na lista.
 
-<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png"> </li> <br></br>
+<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/letra.png"> </li> <p></p> <p></p>
 
 <li> Criar uma função que rode o jogo. Dentro da função:
   
@@ -40,9 +40,9 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 - Criar uma variável que adicione um tempo de exibição da lista criada pelo computador a cada acerto do usuário.
 
-- Criar uma variável que some os pontos a cada acerto do usuário. </li> <br></br>
+- Criar uma variável que some os pontos a cada acerto do usuário. </li> <p></p> <p></p>
 
-<li> Chamar a função que roda o jogo. </li> <br></br>
+<li> Chamar a função que roda o jogo. </li> <p></p> <p></p>
   
 * **Exemplos de acerto e erro do usuário:**
 
