@@ -44,11 +44,16 @@ Criar qualquer jogo no Python com base nas [aulas da primeira semana](https://gi
 
 <li> Chamar a função que roda o jogo. </li> <p></p>
   
-** - Exemplos de acertos e erro do usuário:**
+* **Exemplos de acerto e erro do usuário:**
 
-<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/correto.png" class="center">
-<img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/game_over.png" class="center">
-
+<div class="row">
+  <div class="column">
+    <img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/correto.png" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2001%20-%20Jogo%20da%20sequ%C3%AAncia/imagens/game_over.png" style="width:100%">
+  </div>
+</div>
 
 <a name="processo"></a>
 ## PROCESSO DE APRENDIZADO
