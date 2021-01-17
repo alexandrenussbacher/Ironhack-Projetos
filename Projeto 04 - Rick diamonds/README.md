@@ -52,6 +52,8 @@ Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick
 
 </ol>
 
+* [link](https://daft-oct2020-rick-diamonds.herokuapp.com/) para anexar arquivo csv e verificar o RMSE.
+
 <a name="processo_de_aprendizado"></a>
 ## PROCESSO DE APRENDIZADO
 
