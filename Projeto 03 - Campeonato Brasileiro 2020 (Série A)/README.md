@@ -33,7 +33,7 @@
    
    - Criar um Dataframe vázio;
    
-   - Criar um loop para clicar nos botões necessários, aguardar o tempo mínimo para mudar de página, realizar o Web Scraping da página momentânea e adicionar o conteúdo ao Dataframe criado. </li> <p></p>
+   - Criar um loop para clicar nos botões necessários, aguardar o tempo mínimo para mudar de página, realizar o Web Scraping da página momentânea e adicionar o conteúdo ao Dataframe criado (site: [whoscored](https://1xbet.whoscored.com/Regions/31/Tournaments/95/Seasons/8158/Stages/18472/PlayerStatistics/Brazil-Brasileir%C3%A3o-2020)). </li> <p></p>
 
 <li> Unir os dois Dataframe criados. </li> <p></p>
 
