@@ -64,7 +64,7 @@ Analisar a base de dados obtida.
 <a name="resultado"></a>
 ## RESULTADO
 
-[TABLEAU PUBLIC]()
+[TABLEAU PUBLIC](https://public.tableau.com/profile/alexandre.nussbacher#!/vizhome/CampeonatoBrasileiro2020SrieA/Histria)
 
 <a name="processo"></a>
 ## PROCESSO DE APRENDIZADO
