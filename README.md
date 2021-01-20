@@ -13,7 +13,6 @@ Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem
 <br></br>
 
 
-
 ## 🧹 PROJETO 02 | Limpeza e manipulação de dados - Shark Attacks
 
 * **Proposta**: Fazer uma leitura e análise de um [Dataset do kaggle](https://www.kaggle.com/teajay/global-shark-attacks%20) sobre ataque de tubarões e formular pergunta(s) que possa(m) ser respondida(s) através da limpeza e manipulação dos dados (clique [aqui](https://ironhack.school/asset-v1:IRONHACK+DAFT+202007_SAO+type@asset+block@shark-attacks-project-v1.pdf) para saber mais).
@@ -23,6 +22,20 @@ Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem
 1. Relação entre a ocorrência de casos e mortes ao longo dos anos nos Estados Unidos entre 1900 e 2018.<br>
 
 2. Ocorrência de casos e mortes nos Estados Unidos para cada atividade que a vítima estava realizando, comparando os seguintes períodos: 1900 a 1999 e 2000 a 2018.
+<br></br>
+
+
+## 🔎 PROJETO 03 | Mineração e visualização de dados - Campeonato Brasileiro 2020 (Série A)
+
+* **Proposta**:
+
+> [**Parte 1:**](https://ironhack.school/asset-v1:IRONHACK+DAFT+202007_SAO+type@asset+block@web-scraping-project.pdf) Criar uma base de dados a partir de Web Scraping e/ou API.
+
+> [**Parte 2:**](https://ironhack.school/asset-v1:IRONHACK+DAFT+202007_SAO+type@asset+block@data-visualization-project.pdf) Criar um dashboard e/ou uma história no Tableau com os insights através da visualização dos dados obtidos.
+
+**Objetivo específico: Analisar a performance dos jogadores que atuam na Série A do Campeonato Brasileiro de 2020.**
+
+[TABLEAU PUBLIC](https://public.tableau.com/profile/alexandre.nussbacher#!/vizhome/CampeonatoBrasileiro2020SrieA/Histria)
 <br></br>
 
 
@@ -37,4 +50,6 @@ Criei uma baseline e dois modelos. No segundo modelo, apliquei o logaritmo nas c
 >**R²**=98.21%
 
 <br></br>
+
+
 
