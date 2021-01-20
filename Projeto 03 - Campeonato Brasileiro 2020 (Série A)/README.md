@@ -75,7 +75,7 @@ Analisar a base de dados obtida.
 - [x] Manipulação de Dados
 - [x] Expressões Regulares
 - [x] Conexão do Python com PostgreSQL
-- [x] Tableau
+- [x] Tableau (Visualização de Dados)
 
 ### Melhorias:
 
