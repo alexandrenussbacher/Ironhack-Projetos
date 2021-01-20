@@ -53,7 +53,9 @@
   
   - Substituir os valores "-" por 0. </li> <p></p>
   
-<li> Exportar o Dataframe final para o SQL (conectando com o Python) e arquivo csv. </li> <p></p>
+<li> Exportar o Dataframe final para o SQL (conectando com o Python) e arquivo csv.
+
+<p align="center"> <img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2003%20-%20Campeonato%20Brasileiro%202020%20(S%C3%A9rie%20A)/imagens/Dataframe.png"> </p> </li> <p></p>
   
 </ol>
 
@@ -65,6 +67,8 @@ Analisar a base de dados obtida.
 ## RESULTADO
 
 [TABLEAU PUBLIC](https://public.tableau.com/profile/alexandre.nussbacher#!/vizhome/CampeonatoBrasileiro2020SrieA/Histria)
+
+
 
 <a name="processo"></a>
 ## PROCESSO DE APRENDIZADO
