@@ -1,6 +1,7 @@
 <a name="topo"></a>
 <h1 align="center"> 🔎 PROJETO 03 | Mineração e visualização de dados - Campeonato Brasileiro 2020 (Série A) <br></br>
-  <img src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2003%20-%20Campeonato%20Brasileiro%202020%20(S%C3%A9rie%20A)/imagens/Brasileiro_2020.png" alt="Brasileiro"/>
+  <img width="300" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2003%20-%20Campeonato%20Brasileiro%202020%20(S%C3%A9rie%20A)/imagens/bola.jpg"/>
+  <img width="300" src="https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2003%20-%20Campeonato%20Brasileiro%202020%20(S%C3%A9rie%20A)/imagens/Brasileiro_2020.png" alt="Brasileiro"/>
 </h>
 
 ## TABELA DE CONTEÚDO
