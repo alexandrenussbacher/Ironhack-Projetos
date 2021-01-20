@@ -7,6 +7,7 @@
 
 - [PROPOSTA](#proposta)
 - [ETAPAS IMPORTANTES](#etapas)
+- [RESULTADO](#resultado)
 - [PROCESSO DE APRENDIZADO](#processo)
 - [AUTOR](#autor)
 
@@ -23,6 +24,8 @@
 
 <a name="etapas"></a>
 ## ETAPAS IMPORTANTES
+
+**PYTHON**
 
 <ol type="1">
 <li> Criar duas funções, uma para os scouts defensivos e outra para os scouts ofensivos. </li> <p></p>
@@ -51,6 +54,11 @@
   
 </ol>
 
+**TABLEAU**
+
+Analisar a base de dados obtida.
+
+<a name="resultado"></a>
 ## RESULTADO
 
 [TABLEAU PUBLIC]()
