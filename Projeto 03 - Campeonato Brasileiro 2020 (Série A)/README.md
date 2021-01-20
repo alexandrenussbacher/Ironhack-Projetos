@@ -88,6 +88,8 @@ Analisar a base de dados obtida.
 
 * Otimizar o código através de classes/funções.
 
+* Explorar mais tipos de visualização no Tableau.
+
 * Além do Tableau, usar as bibliotecas Matplotlib e Seaborn do Python para a visualização dos dados.
 
 <a name="autor"></a>
