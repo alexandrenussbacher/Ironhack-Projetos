@@ -40,9 +40,9 @@ Criar um modelo de regressão linear para prever o preço dos [diamantes do Rick
  
  <li> Criar o primeiro modelo com base em todas as colunas. <p></p>
   
->**RMSE**=1287.6253018160428
+> **RMSE**=1287.6253018160428
 
->**R²**=90.81% </li> <p></p>
+> **R²**=90.81% </li> <p></p>
 
 <li> Criar o segundo modelo com base no logaritmo das colunas (sem considerar x, y e z, pois possuem valores zerados no Dataset do Rick). <p></p>
   
