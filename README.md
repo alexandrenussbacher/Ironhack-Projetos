@@ -45,10 +45,9 @@ Criei um jogo em que o usuário deve digitar os números (de 1 a 4) que aparecem
 
 Criei uma baseline e dois modelos. No segundo modelo, apliquei o logaritmo nas colunas do Dataset e cheguei nos seguintes resultados:
 
->**RMSE**=890.9525826770072
+> **RMSE**=890.9525826770072
 
->**R²**=98.21%
-
+> **R²**=98.21%
 <br></br>
 
 
