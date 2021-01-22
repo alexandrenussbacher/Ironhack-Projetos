@@ -49,7 +49,7 @@ Criei uma baseline e dois modelos. No segundo modelo, apliquei o logaritmo nas c
 
 > **R²**=98.21%
 
-<p></p> <p></p>
+<br></br>
 
 
 ## 🌧️ PROJETO 05 | Machine Learning - Rain prediction
