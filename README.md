@@ -52,4 +52,7 @@ Criei uma baseline e dois modelos. No segundo modelo, apliquei o logaritmo nas c
 <br></br>
 
 
+## 🌧️ PROJETO 05 | Machine Learning - Rain prediction
+
+**Status**: Em progresso
 
