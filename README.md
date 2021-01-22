@@ -47,8 +47,7 @@ Criei uma baseline e dois modelos. No segundo modelo, apliquei o logaritmo nas c
 
 > **RMSE**=890.9525826770072
 
-> **R²**=98.21%
-
+> **R²**=98.21% <p></p>
 <br></br>
 
 
