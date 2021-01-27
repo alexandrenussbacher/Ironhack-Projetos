@@ -16,7 +16,7 @@
 
 <a name="proposta"></a>
 ## PROPOSTA
-Construir um modelo preditivo para determinar se vai ou não chover amanhã (clique [aqui]("https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2005%20-%20Rain%20prediction/instru%C3%A7%C3%B5es.md") para saber mais).
+Construir um modelo preditivo para determinar se vai ou não chover amanhã (clique [aqui](https://github.com/alexandrenussbacher/Ironhack-Projetos/blob/main/Projeto%2005%20-%20Rain%20prediction/instru%C3%A7%C3%B5es.md) para saber mais).
 
 <a name="etapas"></a>
 ## ETAPAS IMPORTANTES
