@@ -21,6 +21,8 @@ Construir um modelo preditivo para determinar se vai ou não chover amanhã (cli
 <a name="etapas"></a>
 ## ETAPAS IMPORTANTES
 
+...
+
 <a name="processo_de_aprendizado"></a>
 ## PROCESSO DE APRENDIZADO
 
