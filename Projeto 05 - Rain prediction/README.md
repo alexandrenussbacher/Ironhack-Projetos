@@ -26,11 +26,16 @@ Construir um modelo preditivo para determinar se vai ou não chover amanhã (cli
 
 ### Habilidades aplicadas:
 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
-- [x] 
+- [x] Pandas
+- [x] Numpy
+- [x] Matplotlib
+- [x] Seaborn
+- [x] StandardScaler
+- [x] OrdinalEncoder, OneHotEncoder
+- [x] Regressão Logística
+- [x] LGBM
+- [x] Pipeline
+- [x] Matriz de confusão
 
 ### Melhorias:
 
